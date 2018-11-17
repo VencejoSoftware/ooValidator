@@ -122,19 +122,19 @@
         <IsPartOfProject Value="True"/>
       </Unit0>
       <Unit1>
-        <Filename Value="..\..\code\ooValidatorEngine.pas"/>
+        <Filename Value="..\..\code\ValidatorEngine.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit1>
       <Unit2>
-        <Filename Value="..\..\code\ooValidatorRule.pas"/>
+        <Filename Value="..\..\code\ValidatorRule.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit2>
       <Unit3>
-        <Filename Value="..\code\ooValidatorEngine_test.pas"/>
+        <Filename Value="..\code\ValidatorEngine_test.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit3>
       <Unit4>
-        <Filename Value="..\code\stub\ooRulePath.pas"/>
+        <Filename Value="..\code\stub\RulePath.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit4>
     </Units>
