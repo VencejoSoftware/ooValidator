@@ -6,11 +6,11 @@
 program test;
 
 uses
-  ooRunTest,
-  ooRulePath in '..\code\stub\ooRulePath.pas',
-  ooValidatorEngine_test in '..\code\ooValidatorEngine_test.pas',
-  ooValidatorEngine in '..\..\code\ooValidatorEngine.pas',
-  ooValidatorRule in '..\..\code\ooValidatorRule.pas';
+  RunTest,
+  RulePath in '..\code\stub\RulePath.pas',
+  ValidatorEngine_test in '..\code\ValidatorEngine_test.pas',
+  ValidatorEngine in '..\..\code\ValidatorEngine.pas',
+  ValidatorRule in '..\..\code\ValidatorRule.pas';
 
 {R *.RES}
 

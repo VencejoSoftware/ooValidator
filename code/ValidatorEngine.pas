@@ -10,14 +10,14 @@
   @author Vencejo Software <www.vencejosoft.com>
 }
 {$ENDREGION}
-unit ooValidatorEngine;
+unit ValidatorEngine;
 
 interface
 
 uses
   SysUtils,
-  ooList, ooIterableList,
-  ooValidatorRule;
+  List, IterableList,
+  ValidatorRule;
 
 type
 {$REGION 'documentation'}
